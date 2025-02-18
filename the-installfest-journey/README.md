@@ -37,18 +37,18 @@ You'll also set up a GitHub account.
 
 ### Some Installfests include applications specific to one OS, as noted below
 
-#### macOS
-
-- Rectangle
-- Xcode command line developer tools
-- Homebrew
-
 #### Windows 10/Windows 11
 
 - Windows Terminal
 - WSL (Ubuntu)
 - Visual Studio Code WSL Extension
 - PowerToys (optional)
+
+#### macOS
+
+- Rectangle
+- Xcode command line developer tools
+- Homebrew
 
 #### Ubuntu
 
