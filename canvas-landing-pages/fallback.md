@@ -6,7 +6,9 @@
 
 ## About
 
-Welcome to Installfest, your first hands-on experience in setting up a development environment as an aspiring developer! It's normal to encounter unfamiliar terms and even errors, but don't worry—this guide is designed to walk you through each step, ensuring you don't miss anything crucial. And remember, our instructional team is always here to assist you.
+Welcome to Installfest, your first hands-on experience in setting up a development environment as an aspiring IT Professional! It's normal to encounter unfamiliar terms and even errors, but don't worry — this guide is designed to walk you through each step, ensuring you don't miss anything crucial. And remember, our instructional team is always here to assist you once class begins.
+
+***Make sure you only follow one path! Do not open the Installfest documents for any OS other than the one you want to set up.***
 
 ## Content
 
