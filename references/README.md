@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">IT Installfest</span>
+  <span class="headline">Information Technology Installfest</span>
   <span class="subhead">References</span>
 </h1>
 

@@ -1,7 +1,7 @@
 <!-- ! Do not delete or rename this file! -->
 <h1>
   <span class="prefix"></span>
-  <span class="headline">IT Installfest</span>
+  <span class="headline">Information Technology Installfest</span>
 </h1>
 
 ## About
