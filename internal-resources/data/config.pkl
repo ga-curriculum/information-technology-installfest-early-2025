@@ -12,7 +12,7 @@ repo {
   // This name is shown in the header nav to navigate users home
   friendlyName = "Information Technology Installfest"
   // This must match the repo name as it appears on GitHub exactly
-  name = "it-installfest-early-2025"
+  name = "information-technology-installfest-early-2025"
   type = "Lesson"
 }
 

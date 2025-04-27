@@ -32,9 +32,9 @@ Welcome to Installfest, your first hands-on experience in setting up a developme
 
 ### Course landing pages
 
-- [ITB - IT Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/it-installfest-early-2025/canvas-landing-pages/itb.html)
-- [ITS - IT Basics Short Course](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/it-installfest-early-2025/canvas-landing-pages/its.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/it-installfest-early-2025/canvas-landing-pages/fallback.html)
+- [ITB - IT Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/information-technology-installfest-early-2025/canvas-landing-pages/itb.html)
+- [ITS - IT Basics Short Course](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/information-technology-installfest-early-2025/canvas-landing-pages/its.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/information-technology-installfest-early-2025/canvas-landing-pages/fallback.html)
 
 ### Resources
 
