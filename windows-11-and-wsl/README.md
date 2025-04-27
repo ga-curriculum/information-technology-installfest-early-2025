@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">ITB Installfest Early 2025</span>
+  <span class="headline">IT Installfest</span>
   <span class="subhead">Windows 11 and WSL</span>
 </h1>
 
@@ -20,7 +20,7 @@ That's fun, but what does that mean in practice? As a Windows user, you can run 
 
   To find your Windows version and build number, use <kbd>Windows Logo Key</kbd> + <kbd>R</kbd> on your keyboard, type `winver`, and select **OK**. You'll see a dialog window like the one below. Note the Version: 24H2.
 
-  ![A dialog box demonstrating a Windows 11 PC eligible for use in ITB.](./assets/winver-dialog.png)
+  ![A dialog box demonstrating a Windows 11 PC eligible for use in an IT course.](./assets/winver-dialog.png)
 
 - A user account with administrative privilege to your local installation of Windows 11.
 - A Microsoft Account with access to the Microsoft Store application. All requirements are free, but some are only available from the Microsoft Store.

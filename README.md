@@ -1,6 +1,6 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">ITB Installfest Early 2025</span>
+  <span class="headline">IT Installfest</span>
 </h1>
 
 ## About
@@ -32,8 +32,9 @@ Welcome to Installfest, your first hands-on experience in setting up a developme
 
 ### Course landing pages
 
-- [ITB - IT Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/itb-installfest-early-2025/canvas-landing-pages/itb.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/itb-installfest-early-2025/canvas-landing-pages/fallback.html)
+- [ITB - IT Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/it-installfest-early-2025/canvas-landing-pages/itb.html)
+- [ITS - IT Basics Short Course](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/it-installfest-early-2025/canvas-landing-pages/its.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/it-installfest-early-2025/canvas-landing-pages/fallback.html)
 
 ### Resources
 

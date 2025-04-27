@@ -10,15 +10,29 @@ import "microlessons.pkl" as mls
 
 repo {
   // This name is shown in the header nav to navigate users home
-  friendlyName = "ITB Installfest Early 2025"
+  friendlyName = "IT Installfest"
   // This must match the repo name as it appears on GitHub exactly
-  name = "itb-installfest-early-2025"
+  name = "it-installfest-early-2025"
   type = "Lesson"
 }
 
 courses {
   new {
     name = "itb"
+    isHeaderModuleNavShown = false
+    isFooterLessonNavShown = false
+    microlessons {
+      // add microlessons here, in the order they should be delivered
+      mls.theInstallfestJourney
+      mls.macOs
+      mls.windows11AndWsl
+      mls.ubuntu
+      mls.vsCodeCustomization
+      mls.createAGitHubPersonalAccessToken
+    }
+  }
+  new {
+    name = "its"
     isHeaderModuleNavShown = false
     isFooterLessonNavShown = false
     microlessons {
