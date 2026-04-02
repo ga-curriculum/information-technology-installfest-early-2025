@@ -32,9 +32,9 @@ Welcome to Installfest, your first hands-on experience in setting up a developme
 
 ### Course landing pages
 
-- [ITB - IT Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/information-technology-installfest-early-2025/canvas-landing-pages/itb.html)
-- [ITS - IT Basics Short Course](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/information-technology-installfest-early-2025/canvas-landing-pages/its.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/information-technology-installfest-early-2025/canvas-landing-pages/fallback.html)
+- [ITB - IT Bootcamp](https://ga-curriculum.github.io/information-technology-installfest-early-2025/canvas-landing-pages/itb.html)
+- [ITS - IT Basics Short Course](https://ga-curriculum.github.io/information-technology-installfest-early-2025/canvas-landing-pages/its.html)
+- [Fallback](https://ga-curriculum.github.io/information-technology-installfest-early-2025/canvas-landing-pages/fallback.html)
 
 ### Resources
 
@@ -46,4 +46,4 @@ Welcome to Installfest, your first hands-on experience in setting up a developme
 
 ---
 
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/module-feedback.html)!**
+**Find a 👾 bug 👾 or have suggestions? [Let us know](https://ga-curriculum.github.io/universal-resources-internal/module-feedback.html)!**
